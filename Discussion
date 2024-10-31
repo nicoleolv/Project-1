@@ -1,0 +1,1 @@
+When two free boundary conditions are used, the stiffness matrix, K, becomes non-invertible, making Ku = f impossible to solve. This makes sense since free-free systems lack constraint needed for equilibrium, creating infinite possible displacemenets!
